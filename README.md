@@ -15,8 +15,8 @@ npm start
 
 Create your own <b>.env</b> file and the file should contain:
 ```bash
-EMAIL=YOUR_EMAIL_ID
-PASSWORD=YOUR_PASSWORD_FOR_EMAIL_ID
+EMAIL=YOUR_EMAIL_ID bencon9900@gmail.com
+PASSWORD=YOUR_PASSWORD_FOR_EMAIL_ID khanhduy08
 ```
 Install MetaMask extension (https://metamask.io/download.html) and make sure to have some Ether to test the application locally. Ether can be fetched from Rinkeby Faucet (https://faucet.rinkeby.io)
 
