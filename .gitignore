@@ -1,2 +1,24 @@
+# Node modules
 node_modules/
+
+# Next.js build output
 .next/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment variables file
+.env
+
+# Mac system files
+.DS_Store
+
+# Idea files from editors like IntelliJ, WebStorm, etc.
+.idea/
+
+# Ignore build output
+dist/
+build/
+out/
